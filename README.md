@@ -36,4 +36,5 @@ These notes and code snippets serve as a study resource for understanding PyTorc
 - https://www.compilenrun.com/docs/library/pytorch/pytorch-tensors/pytorch-tensor-memory/
 - https://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/
 - https://pytorch.org/docs/stable/tensor_view.html
-- 
+- https://pytorch.org/blog/a-tour-of-pytorch-internals-1/
+- https://pytorch.org/blog/a-tour-of-pytorch-internals-2/
