@@ -30,3 +30,8 @@ These notes and code snippets serve as a study resource for understanding PyTorc
 - **Section 7: Workflow Efficiency Tips** – Best practices for reducing build times and debugging PyTorch code.
 - **Section 8: Extension Points** – Discussing how PyTorch enables different tensor backends.
 - **Bonus: Stride Visualization** – Plotting how PyTorch organizes tensor memory in a graphical format.
+
+## Additional Resources
+
+- https://www.compilenrun.com/docs/library/pytorch/pytorch-tensors/pytorch-tensor-memory/
+- https://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/
